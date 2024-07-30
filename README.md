@@ -1,5 +1,6 @@
 
 # Project Socket.io - Project # 1
+[update to Socket.IO 4.x @ Jul 2024]
 
 **Based on**: [official socket.io tutorial](https://socket.io/docs/v4/tutorial/introduction)
 
@@ -25,12 +26,17 @@ Welcome aboard!
 
 ## Run Locally
 
+```npm run devStart
+```
 
 #### Tutorial
 https://medium.com/jungletronics/socket-io-intro-8d3866c0135d
 
+[Want to make a chat app? Get Real-time With WebSockets & Socket.io!](https://youtu.be/GdYVTWujYD8?feature=shared) by [Good Moning developers!](https://youtube.com/playlist?list=PLF_SZiztoCWFHE3xDRIa3Cd4XfyzlP6aF&feature=shared)
 
 ## Acknowledgements
 
  - [Socket.io - Getting started](https://socket.io/docs/v4/tutorial/introduction) by official socket.io tutorial
+
+ - 
 
