@@ -22,7 +22,7 @@ io.on('connection', (socket) => {
 // io.on('connection', (socket) => {
 //   console.log(`Socket_ID: ${socket.id} has joined our Server!`)
 //   socket.on('disconnect', ()=>{
-//       console.log(`Socker_ID: ${socket.id} has desconected from our Server!`)
+//       console.log(`Socker_ID: ${socket.id} has disconected from our Server!`)
 //   })
 // })
 
