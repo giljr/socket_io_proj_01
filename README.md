@@ -26,7 +26,8 @@ Welcome aboard!
 
 ## Run Locally
 
-```npm run devStart
+```
+npm run devStart
 ```
 
 #### Tutorial
